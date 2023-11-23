@@ -109,3 +109,4 @@ python manage.py runserver 8000
 In the admin/ page you can view the models created And in the user_profile template page you can see the profile page of the user.
 
 # OUTPUT:
+![Screenshot 2023-11-23 082206](https://github.com/Srivatsan0405/ODD2023-WT-Ex-04-Django-Models/assets/139841630/36593dfb-3043-4e1d-99fb-e4cd9490ca7d)
