@@ -1,8 +1,8 @@
 # Ex-04-Django-Models
 
-#Name: SUNIL KUMAR T
+#Name: SRIVATSAN V
 
-#Reference no: 23001650
+#Reference no: 23000970
 
 # AIM:
 To create a django models.
